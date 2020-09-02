@@ -1,3 +1,4 @@
 public class CoolStuff {
-    print "Anthony is cool";
+    print("hello Word");
+    print ("Anthony is cool");
 }
